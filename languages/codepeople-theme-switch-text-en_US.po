@@ -1,0 +1,64 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: codepeople-theme-switch-text\n"
+"POT-Creation-Date: 2023-03-18 13:55+0100\n"
+"PO-Revision-Date: 2023-03-18 13:56+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.2.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr__;esc_attr_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: codepeople-theme-switch.php:139
+msgid "Settings Updated"
+msgstr ""
+
+#: codepeople-theme-switch.php:149
+msgid "Width attribute required"
+msgstr ""
+
+#: codepeople-theme-switch.php:168
+msgid ">> Video Tutorial <<"
+msgstr ""
+
+#: codepeople-theme-switch.php:304
+msgid "If you need additional themes"
+msgstr ""
+
+#: codepeople-theme-switch.php:304
+msgid "Themes from WordPress"
+msgstr ""
+
+#: codepeople-theme-switch.php:305
+msgid "Themes from ThemeForest"
+msgstr ""
+
+#: codepeople-theme-switch.php:306
+msgid "Qode Interactive"
+msgstr ""
+
+#: codepeople-theme-switch.php:309
+msgid "Screen Sizes"
+msgstr ""
+
+#: codepeople-theme-switch.php:326
+msgid "Width"
+msgstr ""
+
+#: codepeople-theme-switch.php:329
+msgid "Preview"
+msgstr ""
+
+#: codepeople-theme-switch.php:370
+msgid "Settings"
+msgstr ""
+
+#: codepeople-theme-switch.php:451
+msgid "Do you want load an optimized version of website for your screen?"
+msgstr ""
